@@ -29,4 +29,19 @@ termux-setup-storage
     - 自定义路径：通过 Obsidian 设置中的「打开文件夹」确认具体路径
 
 
- cd /storage/emulated/0/Documents/记录/小白撒狗粮的仓库/小白撒狗粮的仓库
+进入到OB仓库地址
+ - cd /storage/emulated/0/Documents/你的OB仓库地址
+
+- 初始化：git init
+- 设置name:git config user.name "名称"
+- 设置email: git config user.email "邮箱地址"
+- 关联远程仓库：git remote add origin https://github.com/你的地址/obsidian.git
+- 首次同步：git pull origin master --allow-unrelated-histories
+	- 看你的分支叫什么，我的是master
+
+方便的同步脚本
+~~~ bash
+# 编辑脚本 
+nano sync.sh 
+# 写入内容（替换路径和分支） #!/data/data/com.termux/files/usr/bin/bash cd /storage/emulated/0/Documents/你的笔记库路径 git pull origin main git add . git commit -m "自动同步：$(date)" git push origin main # 保存并赋予权限 chmod +x sync.sh # 后续同步直接运行 ./sync.sh
+~~~
