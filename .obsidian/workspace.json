@@ -39,14 +39,14 @@
             "id": "3c1e86cd7114bdc7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "PC远程同步.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "PC远程同步"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           },
           {
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PC远程同步.md",
+                "file": "obsidian玩法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "PC远程同步 的反向链接列表"
+              "title": "obsidian玩法 的反向链接列表"
             }
           },
           {
@@ -152,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PC远程同步.md",
+                "file": "obsidian玩法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "PC远程同步 的出链列表"
+              "title": "obsidian玩法 的出链列表"
             }
           },
           {
@@ -181,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PC远程同步.md",
+                "file": "obsidian玩法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "PC远程同步 的大纲"
+              "title": "obsidian玩法 的大纲"
             }
           },
           {
@@ -221,8 +221,8 @@
   "active": "3c1e86cd7114bdc7",
   "lastOpenFiles": [
     "obsidian玩法.md",
-    "学习/trae/master Agent中文版.md",
     "PC远程同步.md",
+    "学习/trae/master Agent中文版.md",
     "未命名",
     "学习/trae/Trae设计.md",
     "未命名.canvas",
