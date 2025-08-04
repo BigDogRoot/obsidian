@@ -41,8 +41,16 @@ termux-setup-storage
 - 5、首次同步：git pull origin master --allow-unrelated-histories
 	- 看你的分支叫什么，我的是master
 	- 如果因为存在一些本地没有跟踪的文件导致拉取失败可以采取：
-		- **删除本地冲突文件**：```bash
-rm -rf
+		- **删除本地冲突文件**，后再拉取：rm -rf，还可以使用git clean -fd
+		- ***先跟踪、提交本地、在拉取***：
+			- git add .obsidian/
+			- git commit -m "备份本地 Obsidian 配置文件"
+			- git pull origin master --allow-unrelated-histories
+			- 解决冲突文件后
+			- git add 冲突文件名  
+			- git commit -m "解决配置文件冲突"
+			- git push origin master
+
 
 
 方便的同步脚本
