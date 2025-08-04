@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习/trae/Trae设计.md",
+                "file": "obsidian玩法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trae设计"
+              "title": "obsidian玩法"
+            }
+          },
+          {
+            "id": "3c1e86cd7114bdc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PC远程同步.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PC远程同步"
             }
           },
           {
@@ -46,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习/trae/Trae设计.md",
+                "file": "PC远程同步.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Trae设计 的反向链接列表"
+              "title": "PC远程同步 的反向链接列表"
             }
           },
           {
@@ -138,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习/trae/Trae设计.md",
+                "file": "PC远程同步.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Trae设计 的出链列表"
+              "title": "PC远程同步 的出链列表"
             }
           },
           {
@@ -167,16 +181,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习/trae/Trae设计.md",
+                "file": "PC远程同步.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Trae设计 的大纲"
+              "title": "PC远程同步 的大纲"
+            }
+          },
+          {
+            "id": "5d09b58a64df7b96",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -193,17 +218,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b09393deeba3c64a",
+  "active": "3c1e86cd7114bdc7",
   "lastOpenFiles": [
-    "未命名.canvas",
-    "学习/trae/Trae设计.md",
     "obsidian玩法.md",
-    "学习/提示词/提示词资源.md",
     "学习/trae/master Agent中文版.md",
+    "PC远程同步.md",
+    "未命名",
+    "学习/trae/Trae设计.md",
+    "未命名.canvas",
+    "学习/提示词/提示词资源.md",
     "学习/trae/Master Agent提示词.md",
     "学习/提示词",
     "学习/trae",
-    "未命名",
     "学习/欢迎.md",
     "学习"
   ]
