@@ -32,16 +32,36 @@ termux-setup-storage
 进入到OB仓库地址
  - cd /storage/emulated/0/Documents/你的OB仓库地址
 
-- 初始化：git init
-- 设置name:git config user.name "名称"
-- 设置email: git config user.email "邮箱地址"
-- 关联远程仓库：git remote add origin https://github.com/你的地址/obsidian.git
-- 首次同步：git pull origin master --allow-unrelated-histories
+- 1、初始化：git init
+- 2、设置name:git config user.name "名称"
+	- 如果因为没有识别成Git仓库导致设置不成功，可以尝试执行：bash GIT_DIR=.git git config user.name "BigDogRoot"
+- 3、设置email: git config user.email "邮箱地址"
+- 4、关联远程仓库：git remote add origin https://github.com/你的地址/obsidian.git
+	- 当因为信任导致关联失败时，添加到安全目录里：git config --global --add safe.directory /storage/emulated/0/Documents/obsidian/ali
+- 5、首次同步：git pull origin master --allow-unrelated-histories
 	- 看你的分支叫什么，我的是master
+	- 如果因为存在一些本地没有跟踪的文件导致拉取失败可以采取：
+		- **删除本地冲突文件**：```bash
+rm -rf
+
 
 方便的同步脚本
 ~~~ bash
+
 # 编辑脚本 
 nano sync.sh 
-# 写入内容（替换路径和分支） #!/data/data/com.termux/files/usr/bin/bash cd /storage/emulated/0/Documents/你的笔记库路径 git pull origin main git add . git commit -m "自动同步：$(date)" git push origin main # 保存并赋予权限 chmod +x sync.sh # 后续同步直接运行 ./sync.sh
+
+# 写入内容（替换路径和分支） #!/data/data/com.termux/files/usr/bin/bash 
+cd /storage/emulated/0/Documents/你的笔记库路径 
+git pull origin main 
+git add . 
+git commit -m "自动同步：$(date)" 
+git push origin main 
+
+# 保存并赋予权限 
+chmod +x sync.sh 
+
+# 后续同步直接运行 
+./sync.sh
 ~~~
+
