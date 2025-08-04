@@ -39,14 +39,14 @@
             "id": "3c1e86cd7114bdc7",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "obsidian玩法.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "obsidian玩法"
             }
           },
           {
@@ -220,8 +220,8 @@
   },
   "active": "3c1e86cd7114bdc7",
   "lastOpenFiles": [
-    "obsidian玩法.md",
     "PC远程同步.md",
+    "obsidian玩法.md",
     "学习/trae/master Agent中文版.md",
     "未命名",
     "学习/trae/Trae设计.md",
