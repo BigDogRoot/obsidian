@@ -3,4 +3,4 @@
 
 去安装remotely save插件，里面有s3储存，配合[![](https://i0.hdslb.com/bfs/reply/9f3ad0659e84c96a711b88dd33f4bc2e945045e0.png)cloudfare](https://search.bilibili.com/all?from_source=webcommentline_search&keyword=cloudfare&seid=17189665471093227801&from_avid=209774352&from_comid=255969843872)的r2免费额度就能实现随时同步了
 
-
+试试同步
