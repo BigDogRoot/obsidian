@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian玩法.md",
+                "file": "Android手机远程同步.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "obsidian玩法"
+              "title": "Android手机远程同步"
             }
           },
           {
@@ -221,6 +221,7 @@
   "active": "3c1e86cd7114bdc7",
   "lastOpenFiles": [
     "PC远程同步.md",
+    "Android手机远程同步.md",
     "obsidian玩法.md",
     "学习/trae/master Agent中文版.md",
     "未命名",
