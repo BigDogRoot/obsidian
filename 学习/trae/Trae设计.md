@@ -1,2 +1,2 @@
-[[Master Agent提示词]]
+[[master Agent中文版]]
 
