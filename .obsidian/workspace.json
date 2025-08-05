@@ -13,6 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "001-OB/obsidian玩法.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -40,7 +41,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "title": "obsidian玩法 的关系图"
             }
           },
           {
@@ -218,9 +219,11 @@
   },
   "active": "452bb43b94dbd37d",
   "lastOpenFiles": [
+    "我是一个快速链接.md",
+    "001-OB/obsidian玩法.md",
+    "().md",
     "Pasted image 20250805153518.png",
     "未命名.md",
-    "001-OB/obsidian玩法.md",
     "IOS同步.md",
     "001-OB/PC远程同步.md",
     "大模型/大模型资源.md",
