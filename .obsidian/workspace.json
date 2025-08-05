@@ -8,58 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a8d9e8396b63dac2",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "001-OB/obsidian玩法.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "obsidian玩法 的关系图"
-            }
-          },
-          {
             "id": "452bb43b94dbd37d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001-OB/obsidian玩法.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "obsidian玩法"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#map",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian玩法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "obsidian玩法 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -217,21 +174,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "452bb43b94dbd37d",
+  "active": "5d09b58a64df7b96",
   "lastOpenFiles": [
-    "我是一个快速链接.md",
-    "001-OB/obsidian玩法.md",
-    "().md",
     "Pasted image 20250805153518.png",
-    "未命名.md",
+    "第二大脑.md",
+    "大模型/大模型.md",
+    "大模型/大模型资源.md",
+    "学习/trae/Trae设计.md",
+    "学习/trae/master Agent中文版.md",
+    "学习/trae/Master Agent提示词.md",
+    "002-生活/生活.md",
+    "002-生活/生育/生育概要.md",
+    "002-生活/生育/孕前/孕前.md",
+    "000-临时记录/temp.md",
+    "001-OB/obsidian玩法.md",
+    "我是一个快速链接.md",
+    "().md",
     "IOS同步.md",
     "001-OB/PC远程同步.md",
-    "大模型/大模型资源.md",
-    "000-临时记录/temp.md",
     "001-OB/Android手机远程同步.md",
-    "学习/trae/Master Agent提示词.md",
-    "学习/trae/master Agent中文版.md",
-    "学习/trae/Trae设计.md",
     "学习/欢迎.md",
     "创建链接.md",
     "002-生活",
@@ -241,8 +202,6 @@
     "学习/提示词/提示词资源.md",
     "大模型/提示",
     "大模型",
-    "002-生活/生育/孕前/孕前.md",
-    "002-生活/生育/生育概要.md",
     "002-生活/生育/孕前",
     "002-生活/生育",
     "未命名.canvas",
