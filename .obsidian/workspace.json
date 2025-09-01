@@ -16,8 +16,21 @@
               "icon": "lucide-git-fork",
               "title": "关系图谱"
             }
+          },
+          {
+            "id": "e3f19fe81898f636",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,6 +178,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -174,7 +188,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "452bb43b94dbd37d",
+  "active": "e3f19fe81898f636",
   "lastOpenFiles": [
     "第二大脑.md",
     "大模型/大模型.md",
