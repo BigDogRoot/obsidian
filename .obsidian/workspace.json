@@ -11,26 +11,17 @@
             "id": "452bb43b94dbd37d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          },
-          {
-            "id": "e3f19fe81898f636",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "B001-编程/稳定性/服务预热.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.9.12"
+              "icon": "lucide-file",
+              "title": "服务预热"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,13 +179,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3f19fe81898f636",
+  "active": "452bb43b94dbd37d",
   "lastOpenFiles": [
     "第二大脑.md",
+    "B001-编程/稳定性/服务预热.md",
+    "学习/trae/master Agent中文版.md",
+    "B001-编程/稳定性",
+    "B001-编程/未命名.base",
+    "B001-编程/未命名.md",
+    "B001-编程",
+    "未命名 3.base",
+    "未命名.base",
+    "未命名 2.base",
+    "未命名 1.base",
     "大模型/大模型.md",
     "大模型/大模型资源.md",
     "学习/trae/Trae设计.md",
-    "学习/trae/master Agent中文版.md",
     "学习/trae/Master Agent提示词.md",
     "002-生活/生活.md",
     "002-生活/生育/生育概要.md",
@@ -212,14 +212,7 @@
     "002-生活",
     "001-OB",
     "效率",
-    "000-临时记录",
     "学习/提示词/提示词资源.md",
-    "大模型/提示",
-    "大模型",
-    "002-生活/生育/孕前",
-    "002-生活/生育",
-    "未命名.canvas",
-    "学习/提示词",
-    "学习/trae"
+    "未命名.canvas"
   ]
 }
