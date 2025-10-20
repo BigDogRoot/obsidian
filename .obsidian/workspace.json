@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "服务预热"
             }
+          },
+          {
+            "id": "d10a8a40dd3d39b7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "452bb43b94dbd37d",
+  "active": "d10a8a40dd3d39b7",
   "lastOpenFiles": [
     "第二大脑.md",
     "B001-编程/稳定性/服务预热.md",
